@@ -1,0 +1,10 @@
+# YT-DLP-CMD
+- Need to edit line 8 path in those **.bat file** because it will be the location to download the videos.
+- .txt is the winget commmand to install yt-dlp and ffmpeg.
+
+# Source 
+- https://github.com/yt-dlp/yt-dlp
+
+# Report winget issues
+- https://github.com/microsoft/winget-pkgs/issues
+- https://github.com/microsoft/winget-cli/issues
