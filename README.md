@@ -1,5 +1,5 @@
 # YT-DLP-CMD
-- Need to edit line 8 path in those **.bat file** because it will be the location to download the videos.
+- Need to edit line 8 path in those **.bat file** because it will be the location to download the video / audio files.
 - .txt is the winget commmand to install yt-dlp and ffmpeg.
 
 # Source 
